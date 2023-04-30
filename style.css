@@ -1,0 +1,22 @@
+.borde1 {
+    text-align: center;
+    color: blueviolet;
+    border-radius: 10px;
+    border-left: 5px;
+    border-right: 5px;
+    height: 200px;
+    border-style: double;
+    border-color: palevioletred;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin-bottom: 30px
+}
+.borde1 img{
+    width: 80px;
+
+}
+.cajaflexible{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
